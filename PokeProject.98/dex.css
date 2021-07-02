@@ -1,0 +1,24 @@
+.poke {
+  height: 10rem;
+  margin-top: -80px;
+}
+.pokeheader {
+  margin-top: -200px;
+  font-family: Silkscreen Expanded;
+}
+.nei {
+  height: 14rem;
+  width: 64rem;
+}
+.tabela {
+  border-radius: 30px;
+  margin-top: 0rem;
+}
+.tabela1 {
+  border-radius: 18px;
+  font-family: Silkscreen Expanded;
+}
+.tab2 {
+  margin-top: 120px;
+  border-radius: 50%;
+}
